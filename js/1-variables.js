@@ -17,6 +17,13 @@ console.log("Nuevo mensaje");
 document.write("Resultado: " +(29+6));
 //Resultado: 35
 
+//Crear o declarar o inicializar una variable (var- let- const)
+
+let persona = "Silvia Aymat";
+let comision = 7;
+
+//document.write("<p>Nombre: " + persona +"</p>");
+document.write("<p>Nombre: " + persona +"</p>");
 
 
 
